@@ -6,7 +6,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="TurtleDrawingProject" />
-    <orderEntry type="module" module-name="TurtleInteractiveDrawing" />
   </component>
 </module>
